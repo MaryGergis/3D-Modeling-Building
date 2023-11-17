@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3D-Modeling-Building/static/css/main.964fdded.css",
+    "main.js": "/3D-Modeling-Building/static/js/main.c3ac7a50.js",
+    "static/js/787.ed7e09ab.chunk.js": "/3D-Modeling-Building/static/js/787.ed7e09ab.chunk.js",
+    "index.html": "/3D-Modeling-Building/index.html",
+    "main.964fdded.css.map": "/3D-Modeling-Building/static/css/main.964fdded.css.map",
+    "main.c3ac7a50.js.map": "/3D-Modeling-Building/static/js/main.c3ac7a50.js.map",
+    "787.ed7e09ab.chunk.js.map": "/3D-Modeling-Building/static/js/787.ed7e09ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.c3ac7a50.js"
+  ]
+}
